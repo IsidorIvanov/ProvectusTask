@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv
+venv/
+
+# PyCharm IDE
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
+*.pem
+DataEntry/
