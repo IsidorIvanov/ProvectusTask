@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv
+venv/
+
+# PyCharm IDE
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Database (regenerated via ingest.py)
+db/*.db
+
+# Temp files
+check_db.py
+check_db2.py
+db_check_result.txt
+
+# Data files (too large for git)
+DataEntry/
+README_GIVEN.md
+Technical_Assignment_for_Internship_Program.md
